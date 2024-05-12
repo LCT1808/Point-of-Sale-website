@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Report";
+    var IsEmployee = User.IsInRole("Employee");
+}
+
+<div class="container">
+    <div class="row mt-3 justify-content-around">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title" style="color:#3c6e71; font-weight:bold">Number of orders</h5>
+                <h5 class="card-text">@(ViewBag.TotalOrder ?? 0)</h5>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title" style="color:#3c6e71; font-weight:bold">Revenue</h5>
+                <h5 class="card-text">$ @(ViewBag.TotalAmount ?? 0)</h5>
+            </div>
+        </div>
+
+        @if (!IsEmployee)
+        {
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title" style="color:#3c6e71; font-weight:bold">Profit</h5>
+                    <h5 class="card-text">$ @(ViewBag.Profit ?? 0)</h5>
+                </div>
+            </div>
+        }
+    </div>
+    <div class="row mt-4">
+        <table class="table text-center">
+            <thead>
+                <tr>
+                    <th>
+                        Date_Of_Purchase
+                    </th>
+                    <th>
+                        Customer
+                    </th>
+                    <th>
+                        Employee
+                    </th>
+                    <th>
+                        Total_Amount
+                    </th>
+                    <th>
+                        Received_Money
+                    </th>
+                    <th>
+                        Paid_Back
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ViewBag.Orders)
+                {
+                    <tr>
+                        <td>
+                            @item.Date_Of_Purchase.ToString("dd-MM-yyyy")
+                        </td>
+                        <td>
+                            @item.Customer.Email
+                        </td>
+                        <td>
+                            @item.Employee.Fullname
+                        </td>
+                        <td>
+                            @item.Total_Amount
+                        </td>
+                        <td>
+                            @item.Received_Money
+                        </td>
+                        <td>
+                            @item.Paid_Back
+                        </td>
+                        <td>
+                            <a asp-controller="Purchases" asp-action="Details" asp-route-id="@item.purchaseId" class="btn text-black-50" style="background-color:cadetblue">Details</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

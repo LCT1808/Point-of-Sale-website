@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Point-Of-Sales.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Point-Of-Sales.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\UserChangePassword.css",
+      "PackagePath": "staticwebassets\\css\\UserChangePassword.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\changePassword.css",
+      "PackagePath": "staticwebassets\\css\\changePassword.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\confirmResetPwd.css",
+      "PackagePath": "staticwebassets\\css\\confirmResetPwd.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\createPassword.css",
+      "PackagePath": "staticwebassets\\css\\createPassword.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\employee.css",
+      "PackagePath": "staticwebassets\\css\\employee.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\forgotPassword.css",
+      "PackagePath": "staticwebassets\\css\\forgotPassword.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\mailPwd.css",
+      "PackagePath": "staticwebassets\\css\\mailPwd.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\nav.css",
+      "PackagePath": "staticwebassets\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\statistic.css",
+      "PackagePath": "staticwebassets\\css\\statistic.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\images\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\background.png",
+      "PackagePath": "staticwebassets\\images\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\box_items.png",
+      "PackagePath": "staticwebassets\\images\\box_items.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-0.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-0.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-0275073090469.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-0275073090469.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-09259009407.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-09259009407.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-12.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-13.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-14.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-142352093678.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-142352093678.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-147273589892.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-147273589892.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-15.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-15304053899.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-15304053899.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-18582358.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-18582358.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-19828958392.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-19828958392.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-20953.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-20953.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-2095826092094.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-2095826092094.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-209757020909509.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-209757020909509.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-2572935923.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-2572935923.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-25898389458932.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-25898389458932.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-2850207028.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-2850207028.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-28589298358928.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-28589298358928.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-2888598829.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-2888598829.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-289520520678.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-289520520678.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-2895725909043.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-2895725909043.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-28959385832.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-28959385832.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-3203682437.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-3203682437.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-3498288539.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-3498288539.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-38.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-38.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-4.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-5.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-552745788345.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-552745788345.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-7.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-75279050828586.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-75279050828586.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-7849825889235.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-7849825889235.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-8.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-817238828356.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-817238828356.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-819525738257.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-819525738257.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-852589286.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-852589286.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-8725729529.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-8725729529.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-87258723599.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-87258723599.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-8757827527.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-8757827527.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-891646238423.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-891646238423.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-89520903059290.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-89520903059290.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-89598289.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-89598289.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-91589923.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-91589923.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-9520952905902.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-9520952905902.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-98252973.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-98252973.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-98257280.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-98257280.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-9825774593495.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-9825774593495.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-9825798258.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-9825798258.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-98528935.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-98528935.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\products\\product-985729835.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-985729835.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\images\\user\\profile-28.png",
+      "PackagePath": "staticwebassets\\images\\user\\profile-28.png"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\account.html",
+      "PackagePath": "staticwebassets\\static\\account.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\changePassword.html",
+      "PackagePath": "staticwebassets\\static\\changePassword.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\createPassword.html",
+      "PackagePath": "staticwebassets\\static\\createPassword.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\employee.html",
+      "PackagePath": "staticwebassets\\static\\employee.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\footer.html",
+      "PackagePath": "staticwebassets\\static\\footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\forgotPassword.html",
+      "PackagePath": "staticwebassets\\static\\forgotPassword.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\home.html",
+      "PackagePath": "staticwebassets\\static\\home.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\login.html",
+      "PackagePath": "staticwebassets\\static\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\nav.html",
+      "PackagePath": "staticwebassets\\static\\nav.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\product.html",
+      "PackagePath": "staticwebassets\\static\\product.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\profile.html",
+      "PackagePath": "staticwebassets\\static\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Hydrainiee\\Downloads\\MIS final\\Source\\LCT1808\\MIS_final\\Point-Of-Sales\\wwwroot\\static\\statistic.html",
+      "PackagePath": "staticwebassets\\static\\statistic.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Point-Of-Sales.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Point-Of-Sales.props",
+      "PackagePath": "build\\Point-Of-Sales.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Point-Of-Sales.props",
+      "PackagePath": "buildMultiTargeting\\Point-Of-Sales.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Point-Of-Sales.props",
+      "PackagePath": "buildTransitive\\Point-Of-Sales.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

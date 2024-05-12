@@ -1,0 +1,60 @@
+﻿@model Point_Of_Sales.Entities.Purchase
+
+@{
+    ViewData["Title"] = "Invoicce";
+}
+
+<div class="container mt-1">
+    <a asp-action="Index" class="btn" style="color: #69a297"><i><u>Back to List</u></i></a>
+    <div class="card row flex-row justify-content-center mt-3" style="width: 95%">
+        <div class="row justify-content-lg-around mt-2">
+            <div class="col-lg-5">
+                <h6>Customer email: @Model.Customer.Email</h6>
+                <h6>Invoice creation day: @Model.Date_Of_Purchase</h6>
+            </div>
+            <div class="col-lg-5 ">
+                <h6>Invoice ID: @Model.purchaseId </h6>
+                <h6>Staff: @Model.Employee.Fullname (@Model.Employee.Id)</h6>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <table class="table text-center" style="height: 70%">
+                <thead>
+                    <tr text-cent>
+                        <th>No.</th>
+                        <th>Product name</th>
+                        <th>Quantity</th>
+                        <th>Retail price</th>
+                        <th>Subtotal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        var count = 1;
+                        @foreach (var p in Model.PurchaseDetails)
+                        {
+                            <tr>
+                                <td>@count</td>
+                                <td>@p.Product.Product_Name</td>
+                                <td>@p.Quantity</td>
+                                <td>$@p.Product.Retail_Price</td>
+                                <td>$@p.Subtotal</td>
+                            </tr>
+                            count++;
+                        }
+                    }
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-8"></div>
+        <div class="col-lg-4">
+            <h5 style="color:#ad2831">Total amount: $@Model.Total_Amount</h5>
+            <h6 style="color:#780000">Received Money: $@Model.Received_Money</h6>
+            <h6 style="color:#780000">Paid Back: $@Model.Paid_Back</h6>
+        </div>
+    </div>
+</div>

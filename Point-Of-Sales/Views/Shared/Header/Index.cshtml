@@ -1,0 +1,76 @@
+﻿
+@{
+    var Name = User.Identity.Name ?? "N/A";
+    var Id = User.FindFirst("Id")?.Value ?? "null";
+    var IsAdmin = User.IsInRole("Admin");
+    var IsHead = User.IsInRole("Head");
+}
+<nav class="navbar navbar-expand-lg navbar-light bg-light"">
+    <a class="navbar-brand"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a href="/" class="nav-link">
+                    <img src="/images/logo_1.png" width="30px" />
+                </a>
+            </li>
+
+            @if (!IsHead)
+            {
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Sales</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Products" asp-action="Index" class="nav-link">Products</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Purchases" asp-action="Index" class="nav-link">Purchases</a>
+                </li>
+            }
+
+            @if (IsAdmin || IsHead)
+            {
+                <li class="nav-item">
+                    <a asp-controller="Accounts" asp-action="Index" class="nav-link">Accounts</a>
+                </li>
+            }
+
+            <li class="nav-item">
+                <a asp-controller="RetailStores" asp-action="Report" class="nav-link">Report</a>
+            </li>
+            @if (IsHead)
+            {
+                <li class="nav-item">
+                    <a asp-controller="RetailStores" asp-action="Index" class="nav-link">Retail Stores</a>
+                </li>
+
+               @*  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Management
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a asp-controller="Accounts" asp-action="Index" class="dropdown-item">Accounts</a>
+                    </div>
+                </li> *@
+            }
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #55828b">
+                    <u>@Name</u>
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a asp-action="Profile" asp-controller="Accounts" asp-route-id="@Id" class="dropdown-item">Profile</a>
+                    <a asp-action="ChangePassword" asp-controller="Accounts" asp-route-id="@Id" class="dropdown-item">Change Password</a>
+                    <a class="dropdown-item" href="/Auth/Logout">Logout</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="form-inline">
+        <input id="searchInput" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button id="searchBtn" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </div>
+</nav>

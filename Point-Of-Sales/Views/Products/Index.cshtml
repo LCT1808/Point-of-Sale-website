@@ -1,0 +1,130 @@
+﻿@model IEnumerable<Point_Of_Sales.Entities.Product>
+
+@{
+    ViewData["Title"] = "Products";
+    var IsAdmin = User.IsInRole("Admin");
+}
+
+<div class="container">
+    <h5 style="color: #50808e">List of Products</h5>
+
+    @if (IsAdmin)
+    {
+        <p>
+            <a asp-action="Create" class="btn text-white" style="background-color: #55828b">Create New</a>
+        </p>
+    }
+    <table class="table">
+        <thead>
+            <tr class="text-center">
+                <th>
+                    @Html.DisplayNameFor(model => model.Barcode)
+                </th>
+                <th>
+                    Product Name
+                </th>
+                @if (IsAdmin)
+                {
+                    <th>
+                        Import Price
+                    </th>
+                }
+                <th>
+                    Retail Price
+                </th>
+                <th>
+                    Sale Price
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Category)
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr id="data-@item.Id" class="text-center">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Barcode)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Product_Name)
+                    </td>
+                    @if (IsAdmin)
+                    {
+                        <td>
+                            $@Html.DisplayFor(modelItem => item.Import_Price)
+                        </td>
+                    }
+                    <td>
+                        $@Html.DisplayFor(modelItem => item.Retail_Price)
+                    </td>
+
+                    @{
+                        if (item.Sale_Price != 0)
+                        {
+                            <td style="color: indianred; font-weight:650">
+                                $@Html.DisplayFor(modelItem => item.Sale_Price)
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                                ...
+                            </td>
+                        }
+                    }
+                    
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category)
+                    </td>
+                    <td class="text-left">
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn text-white mr-2" style="background-color: #55828b">Details</a>
+
+                        @if (IsAdmin)
+                        {
+                            <button onclick="handleDelete(this)" data-id="@item.Id" class="btn text-white mr-2" style="background-color:#ad2831; ">Delete</button>
+                            @if (item.Sale_Price != 0)
+                            {
+                                <button onclick="handleAds(this)" data-id="@item.Id" class="btn text-white mr-2" style="background-color:peru; ">Ads</button>
+                            }
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+@section Scripts {
+    <script>
+        async function handleDelete(button) {
+            const { id } = button.dataset;
+
+            if (confirm("Do you want to delete this product?")) {
+                const result = await fetch("/Products/Delete/" + id, { method: "POST" })
+                if (result.ok) {    
+                    alert("Delete successfully!");
+                    document.querySelector(`#data-${id}`).remove();
+                }
+            } else {
+                return;
+            }
+
+        }
+
+        async function handleAds(button) {
+            const { id } = button.dataset
+            //disableButton(button)
+            await fetch("/Products/Ads/" + id, { method: "POST" }).then((res) => {
+                if (res.status == 200) {
+                    alert("Ads successfully! ");
+                }
+            }).catch(err => {
+                console.log(err)
+            })
+        }
+    </script>
+}

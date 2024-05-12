@@ -1,0 +1,57 @@
+﻿@model Point_Of_Sales.Entities.Account
+
+@{
+    ViewData["Title"] = "Account Details";
+}
+
+<div class="container">
+    <a asp-action="Index" class="btn" style="color: #69a297"><i><u>Back to List</u></i></a>
+    <div class="row justify-content-center mt-2">
+        <div class="col-md-4">
+            <img src="~/images/avatar.png" style="width:100%;height:100%; object-fit:contain" />
+        </div>
+        <div class="col-md-4">
+            <h4 class="text-center py-1" style="color:#426148">@Model.Employee.Fullname</h4>
+            <form asp-action="Edit" method="post" class="w-100 mx-0">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+                <div class="form-group">
+                    <label class="control-label">Full Name</label>
+                    <input name="FullName" value="@Model.Employee.Fullname" class="form-control" />
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-grkoup">
+                    <label class="control-label">Email</label>
+                    <input name="Email" value="@Model.Employee.Email" class="form-control" />
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Role" class="control-label">Role</label>
+                    <input asp-for="Role" class="form-control" />
+                    <span asp-validation-for="Role" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="StoreId" class="control-label">Store</label>
+                    <select name="RetailStoreId" id="StoreId" class="form-control">
+                        @foreach (var store in ViewBag.Stores)
+                        {
+                            if (Model.Employee.RetailStoreId == store.Id)
+                            {
+                                <option value="@store.Id" selected>@store.Name</option>
+                            }
+                            else
+                            {
+
+                                <option value="@store.Id">@store.Name</option>
+                            }
+                        }
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Save Changes" class="btn text-white w-100 mt-2" style="background-color:#55828b"  />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

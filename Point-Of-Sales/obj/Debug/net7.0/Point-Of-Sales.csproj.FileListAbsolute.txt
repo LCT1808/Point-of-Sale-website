@@ -1,0 +1,780 @@
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\appsettings.Development.json
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\appsettings.json
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.staticwebassets.runtime.json
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.exe
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.deps.json
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.runtimeconfig.json
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.pdb
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.csproj.AssemblyReference.cache
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.AssemblyInfoInputs.cache
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.AssemblyInfo.cs
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.csproj.CoreCompileInputs.cache
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.RazorAssemblyInfo.cache
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.RazorAssemblyInfo.cs
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.Point-Of-Sales.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.build.Point-Of-Sales.props
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Point-Of-Sales.props
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Point-Of-Sales.props
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.build.json
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.development.json
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\scopedcss\bundle\Point-Of-Sales.styles.css
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\scopedcss\projectbundle\Point-Of-Sales.bundle.scp.css
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\refint\Point-Of-Sales.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.pdb
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.genruntimeconfig.cache
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\ref\Point-Of-Sales.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Azure.Core.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Azure.Identity.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Humanizer.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.Common.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.CodeDom.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.csproj.CopyComplete
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Castle.Core.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\MimeKit.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Downloads\DOTNET - Final Project (23-12-2023)\Source\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.sourcelink.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\appsettings.Development.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\appsettings.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.staticwebassets.runtime.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.exe
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.deps.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.runtimeconfig.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.pdb
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Azure.Core.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Azure.Identity.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Castle.Core.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Humanizer.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\MimeKit.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.Common.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.CodeDom.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.csproj.AssemblyReference.cache
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.AssemblyInfoInputs.cache
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.AssemblyInfo.cs
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.csproj.CoreCompileInputs.cache
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.RazorAssemblyInfo.cache
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.RazorAssemblyInfo.cs
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.sourcelink.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.build.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.development.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.Point-Of-Sales.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.build.Point-Of-Sales.props
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Point-Of-Sales.props
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Point-Of-Sales.props
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\scopedcss\bundle\Point-Of-Sales.styles.css
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\scopedcss\projectbundle\Point-Of-Sales.bundle.scp.css
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of.FDB8D641.Up2Date
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\refint\Point-Of-Sales.dll
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.pdb
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.genruntimeconfig.cache
+D:\Documents\SCHOOL\Ex-term\HKV\DOTNET\DOTNET\DOTNET - Final Project\(Source)\Point-Of-Sales\obj\Debug\net7.0\ref\Point-Of-Sales.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\appsettings.json
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.staticwebassets.runtime.json
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.exe
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.deps.json
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.runtimeconfig.json
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Point-Of-Sales.pdb
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.csproj.AssemblyReference.cache
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.AssemblyInfoInputs.cache
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.AssemblyInfo.cs
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.csproj.CoreCompileInputs.cache
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.RazorAssemblyInfo.cache
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.RazorAssemblyInfo.cs
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.Point-Of-Sales.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.build.Point-Of-Sales.props
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Point-Of-Sales.props
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Point-Of-Sales.props
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\scopedcss\bundle\Point-Of-Sales.styles.css
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\scopedcss\projectbundle\Point-Of-Sales.bundle.scp.css
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of.FDB8D641.Up2Date
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\refint\Point-Of-Sales.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.pdb
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\Point-Of-Sales.genruntimeconfig.cache
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\obj\Debug\net7.0\ref\Point-Of-Sales.dll
+C:\Users\Hydrainiee\Downloads\MIS final\Source\LCT1808\MIS_final\Point-Of-Sales\bin\Debug\net7.0\HtmlAgilityPack.dll

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Point_Of_Sales.Entities.Purchase>
+
+@{
+    ViewData["Title"] = "Purchases";
+}
+
+<div class="container">
+    <h5 style="color: #50808e" class="mt-2">List of Sold Orders</h5>
+    <table class="table mt-4">
+        <thead>
+            <tr class="text-center">
+                <th>
+                    @Html.DisplayNameFor(model => model.Date_Of_Purchase)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Customer)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Employee)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Total_Amount)
+                </th>
+                
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="text-center">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date_Of_Purchase)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Customer.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Employee.Fullname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Total_Amount)$
+                    </td>
+                    
+                    <td>
+                       @*  <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> | *@
+                        <a asp-action="Details" asp-route-id="@item.purchaseId" class="btn text-white" style="background-color: #55828b">Invoice Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+

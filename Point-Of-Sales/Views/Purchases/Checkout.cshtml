@@ -1,0 +1,95 @@
+﻿@model Point_Of_Sales.Entities.Purchase
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-lg-around">
+        <div class="col-lg-5">
+            <h6>Customer email: @Model.Customer.Email</h6>
+            <h6>Invoice creation day: @Model.Date_Of_Purchase</h6>
+        </div>
+        <div class="col-lg-5 ">
+            <h6>Invoice ID: @Model.purchaseId </h6>
+            <h6>Staff: @Model.Employee.Fullname</h6>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <table class="table text-center">
+            <thead>
+                <tr>
+                    <th>No.</th>
+                    <th>Product name</th>
+                    <th>Quantity</th>
+                    <th>Retail price</th>
+                    <th>Subtotal</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var count = 1;
+                    @foreach (var p in Model.PurchaseDetails)
+                    {
+                        <tr>
+                            <td>@count</td>
+                            <td>@p.Product.Product_Name</td>
+                            <td>@p.Quantity</td>
+                            <td>$@p.Product.Retail_Price</td>
+                            <td>$@p.Subtotal</td>
+                        </tr>
+                        count++;
+                    }
+                }
+                
+            </tbody>
+        </table>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-8"></div>
+        <div class="col-lg-4">
+            <h5 style="color:darkred">Total amount: $@Model.Total_Amount</h5>
+            <form asp-action="Checkout" method="POST">
+                <input asp-for="Id" type="hidden" />
+                <input id="total" value="@Model.Total_Amount" type="hidden" />
+                <h6 class="form-group">
+                    <label for="received">Receive Money</label>
+                    <input id="received" name="receivedMoney" type="number" class="form-control" />
+                </h6>
+                <h6 class="my-2" id="paidback">Paid back: $0</h6>
+                <button onclick="checkOut(this)" type="submit" class="btn text-white" style="background-color: #e9c46a">Complete</button>
+            </form>
+        </div>
+    </div>
+
+</div>
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", () => { localStorage.setItem("cart", JSON.stringify([])) })
+        document.querySelector("#received").addEventListener("keyup", function (event) {
+            //const total = parseInt(document.querySelector("#total").value)
+            //const value = parseInt(this.value)
+            const total = parseFloat(document.querySelector("#total").value)
+            const value = parseFloat(this.value)
+
+            if (value > total) {
+                document.querySelector("#paidback").textContent = `Paid back: $${(value - total)}`
+            } else {
+                document.querySelector("#paidback").textContent = `Paid back: $0`
+            }
+        })
+
+        /*function checkOut(button) {
+            const total = parseInt(document.querySelector("#total").value)
+            const received = parseInt(document.querySelector("#received").value)
+
+            if (received < total) {
+                alert("Received money is not enough.")
+                return;
+            }
+        }*/
+
+        
+    </script>
+}

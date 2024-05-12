@@ -1,0 +1,66 @@
+﻿@model Point_Of_Sales.Entities.Account
+
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<div class="container d-flex justify-content-center mt-5">
+    <div class="card row flex-row mt-3" style="width: 800px">
+        <div class="col-md-6 d-flex flex-column justify-content-evenly align-items-center">
+            <label for="avatar" style="width:300px; height: 300px">
+
+                @if (Model.Employee.ImagePath != null)
+                {
+                    <img src="@Model.Employee.ImagePath" style="width:100%;height:100%; object-fit:contain" id="preview-avatar" />
+                }
+                else
+                {
+                    <img src="~/images/avatar.png" style="width:100%;height:100%; object-fit:contain" id="preview-avatar" />
+                }
+
+            </label>
+            <form asp-action="Profile" enctype="multipart/form-data" method="post" class="w-100 mx-0 d-flex justify-content-center">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+                <input type="file" name="image" hidden id="avatar" />
+                <button type="submit" class="btn text-white w-100" style="background-color:#55828b">Save</button>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <h4 class="text-center py-1 mt-2" style="color: #005f73; font-weight:bold">@Model.Employee.Fullname</h4>
+            <div class="form-group">
+                <label class="control-label">Full Name</label>
+                <input disabled name="FullName" value="@Model.Employee.Fullname" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">Email</label>
+                <input disabled name="Email" value="@Model.Employee.Email" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <label asp-for="Role" class="control-label">Role</label>
+                <input disabled asp-for="Role" class="form-control" />
+                <span asp-validation-for="Role" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Store" class="control-label">Store</label>
+                <input disabled name="Store" value="@Model.Employee.RetailStore.Name" class="form-control" />
+            </div>
+
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script>
+
+        const avatar = document.querySelector("#avatar")
+        avatar.addEventListener("change", (event) => {
+            const [file] = avatar.files
+            if (file) {
+                document.querySelector("#preview-avatar").src = URL.createObjectURL(file)
+            }
+        })
+
+    </script>
+}
